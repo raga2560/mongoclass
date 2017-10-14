@@ -1,0 +1,13 @@
+{
+  "name": "handout",
+  "version": "0.0.0",
+  "description": "handout",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "~1.4.34",
+    "ya-csv": "^0.9.4"
+  },
+  "author": "You",
+  "license": "BSD",
+  "private": true
+}
